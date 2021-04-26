@@ -16,6 +16,6 @@
 
 ## TO DO's
 
-- [] Que sirva para todas las tareas
-- [] Chequear CI en primero linea
-- [] Implementar timeout en valgrind
+- [ ] Que sirva para todas las tareas
+- [ ] Chequear CI en primero linea
+- [ ] Implementar timeout en valgrind
