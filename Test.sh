@@ -1,7 +1,4 @@
-# [] TODO Chequear CI en primero linea
-# [] TODO Implementar timeout en valgrind
-
-    if [ $# -eq 0 ]
+if [ $# -eq 0 ]
 then
     echo "CI en la primera linea de archivos: "
     echo ""
